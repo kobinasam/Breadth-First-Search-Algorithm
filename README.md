@@ -1,4 +1,4 @@
-# Breadth-First-Search-Algorithm
+# Breadth-First-Search-Algorithm-Javascript
 
 function bfs(graph, root) {
   var nodesLen = {};
